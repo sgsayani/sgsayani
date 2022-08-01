@@ -8,7 +8,7 @@ Here are some ideas to get you started:--->
 - 🌱 I’m currently learning ... computer science engineering 
 
 
-<img src="https://tenor.com/view/hello-gif-24408873">
+<img src="hello.gif">
 <p>Welcome to my profile , coders </p> 
 
 <img src="https://images.app.goo.gl/HnWCbzE74rqU2bf77">
