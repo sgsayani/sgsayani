@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:--->
 
-- 🔭 I’m currently interested on ... coding,  problem solving 
+- 🔭 I’m currently interested on ... coding,  problem solving and project making 
 - 🌱 I’m currently learning ... computer science engineering 
 
 
