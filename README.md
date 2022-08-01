@@ -14,3 +14,6 @@ Here are some ideas to get you started:--->
 <img src="giphy.webp">
 <p>enjoy my projects and don't forget to share your also</p>
 
+<img src="cyrentec-sci-fi.gif">
+
+<p>Thanks for visiting </p>
