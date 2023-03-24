@@ -1,5 +1,5 @@
 <p align='center'> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=500&width=435&lines=Hello+Everyone%2C+Myself+Sayani+Ghatak;B.tech+CSE+student+at+JIS+University;National+Toycathon+Winner+2021+India;Interested+in+AI%2FML;Coding+and+Problem+Solver;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=500&width=435&lines=Hey+Everyone%2C+I+am+Sayani+Ghatak;B.tech+CSE+student+at+JIS+University;I+Won+National+Toycathon+2021+India;Interested+in+AI%2FML;Coding+and+Problem+Solving;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
 </p>
 <h1 align="center">Hi 👋, I'm Sayani Ghatak</h1>
 <h3 align="center">National Toycathon Winner 2021</h3>
