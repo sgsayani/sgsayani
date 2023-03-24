@@ -1,3 +1,4 @@
+<p align='center'> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=500&width=435&lines=Hello+Everyone%2C+Myself+Sayani+Ghatak;B.tech+CSE+student+at+JIS+University;National+Toycathon+Winner+2021+India;Interested+in+AI%2FML;Coding+and+Problem+Solver;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
 </p>
 <h3 align="center">Hello Everyone, I am Sayani Ghatak. I am currently studying B.Tech(Computer Science and Engineering) at JIS University,Kolkata. And I am a National Toycathon Winner 2021. I am currently working on Machine learing(ML).</h3>
