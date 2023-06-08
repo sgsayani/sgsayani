@@ -20,8 +20,3 @@
 <a href="https://twitter.com/@sayanighatak3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sayanighatak3" height="30" width="40" /></a>
 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sgsayani&show_icons=true&locale=en&layout=compact" alt="sgsayani" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sgsayani&show_icons=true&locale=en" alt="sgsayani" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sgsayani&" alt="sgsayani" /></p>
