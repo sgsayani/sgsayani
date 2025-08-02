@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Sayani Ghatak
+- 🌱 I’m learning Full Stack Development
+- 🔭 Currently working at TCS
+- 🎯 Dream: Join a FAANG company & relocate abroad
+- 💻 Favorite Stack: Angular, Node.js, MongoDB
+- 🛠️ Building: LeetMetric – a LeetCode Stats Visualizer
 
-<!--
-**sgsayani/sgsayani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
+![Sayani's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgsayani&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 LeetCode Progress
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sayanighatak2002?theme=dark&font=Arial)](https://leetcode.com/sayanighatak2002)
