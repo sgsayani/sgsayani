@@ -11,9 +11,6 @@
 - **Styling:** HTML5, CSS3, TailwindCSS
 - **Tools:** Git, VS Code, Chrome DevTools
 
-### 🧠 LeetCode Progress
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sayanighatak2002?theme=dark&font=Arial)](https://leetcode.com/sayanighatak2002)
-
 ### 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/sayani-ghatak/)
 - 🌐 [GitHub](https://github.com/sgsayani)
