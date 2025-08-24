@@ -1,9 +1,7 @@
  # 👋 Hi, I'm Sayani Ghatak
  
 - 🌱 I’m learning Full Stack Development
-- 🔭 Currently working at TCS
-- 🎯 Dream: Join a FAANG company & relocate abroad
-- 💻 Favorite Stack: Angular, Node.js, NextJs, React
+- 💻 Stack: Angular, Node.js, NextJs, React
 
  ### 💼 Tech Stack
 - **Languages:** JavaScript, TypeScript, SQL
