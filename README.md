@@ -1,8 +1,4 @@
-<div align="center">
-# 👋 Hi, I'm Sayani Ghatak  
-### Frontend Developer | Product Engineer @ TCS
-</div>
-
+<div align="center"> # 👋 Hi, I'm Sayani Ghatak ### Frontend Developer | Product Engineer @ TCS </div>
 
 ## 👩‍💻 Professional Summary
 
