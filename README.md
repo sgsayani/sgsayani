@@ -1,8 +1,6 @@
 <div align="center">
-
 # 👋 Hi, I'm Sayani Ghatak  
 ### Frontend Developer | Product Engineer @ TCS
-
 </div>
 
 
@@ -10,7 +8,6 @@
 
 Frontend Developer with **1+ years of experience at TCS** working as a **Product Engineer**.  
 Experienced in building **scalable, user-focused web interfaces** using modern frontend technologies, with working knowledge of backend systems and a strong interest in **AI-driven applications**.
-
 
 
 ## 🛠 Core Skills
@@ -80,4 +77,10 @@ Experienced in building **scalable, user-focused web interfaces** using modern f
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sayani-ghatak/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sgsayani)
 
+</div>
+
+---
+
+<div align="center">
+Thank you for visiting my profile.
 </div>
