@@ -64,8 +64,8 @@ Experienced in building **scalable, user-focused web interfaces** using modern f
 
 ## 📌 Featured Work
 
-- **LeetMetric** – LeetCode stats & progress UI dashboard  
-- **Angular UI Components** – Modular, reusable frontend components  
+- **SmartSite AI** – SmartSite AI is an AI-powered platform that generates modern, responsive websites from simple text prompts. 
+- **Ecommerce Website** – Ecommerce website using React, NodeJS, ExpressJS
 - **Frontend Practice Projects** – Real-world layouts & API integrations  
 
 
