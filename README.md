@@ -66,7 +66,7 @@ Experienced in building **scalable, user-focused web interfaces** using modern f
 
 - **SmartSite AI** – SmartSite AI is an AI-powered platform that generates modern, responsive websites from simple text prompts. 
 - **Ecommerce Website** – Ecommerce website using React, NodeJS, ExpressJS
-- **Frontend Practice Projects** – Real-world layouts & API integrations  
+- **SLACK CLONE** – Slack app clone useing MERN  
 
 
 ## 📫 Connect With Me
