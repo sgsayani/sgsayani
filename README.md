@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Sayani Ghatak</h1>
-  <h3>Frontend Developer | Product Engineer @ TCS</h3>
+  <h3>Frontend Developer | Product Engineer @TCS</h3>
 </div>
 
 ## 👩‍💻 Professional Summary
