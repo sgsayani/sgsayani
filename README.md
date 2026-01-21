@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Sayani Ghatak</h1>
+  <h1>👋 Hi, I'm Sayani Ghatak....</h1>
   <h3>Frontend Developer | Product Engineer @TCS</h3>
 </div>
 
@@ -66,7 +66,7 @@ Experienced in building **scalable, user-focused web interfaces** using modern f
 
 - **SmartSite AI** – SmartSite AI is an AI-powered platform that generates modern, responsive websites from simple text prompts. 
 - **Ecommerce Website** – Ecommerce website using React, NodeJS, ExpressJS
-- **SLACK CLONE** – Slack app clone useing MERN  
+- **SLACK CLONE** – Slack app clone useing MERN Stack 
 
 
 ## 📫 Connect With Me
