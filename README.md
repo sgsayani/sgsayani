@@ -81,21 +81,6 @@ A technical prototype application designed to translate complex natural language
 
 ---
 
-## 📊 GitHub Analytics
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=sgsayani&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=D97706&icon_color=D97706&text_color=C9D1D9" alt="Sayani's GitHub Stats" width="100%"/>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgsayani&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=D97706&icon_color=D97706&text_color=C9D1D9" alt="Top Languages" width="100%"/>
-    </td>
-  </tr>
-</table>
-
----
-
 <div align="center">
   <p>Explore my architectural blueprints and full publications index on my <strong><a href="https://sayani-ghatak.vercel.app/">Live Portfolio Website ↗</a></strong></p>
 </div>
