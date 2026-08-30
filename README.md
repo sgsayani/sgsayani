@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Sayani Ghatak</h1>
-  <p><strong>Product Engineer (Frontend Specialist) at Tata Consultancy Services</strong></p>
+  <p><strong>Product Engineer at Tata Consultancy Services</strong></p>
 
   <!-- Live Portfolio Badge -->
   <a href="https://sayani-ghatak.vercel.app/" target="_blank">
