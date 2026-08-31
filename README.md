@@ -4,7 +4,7 @@
 
   <!-- Live Portfolio Badge -->
   <a href="https://www.sayanighatak.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Portfolio-sayani--ghatak.vercel.app-amber?style=for-the-badge&logo=vercel&logoColor=white&color=D97706" alt="Live Portfolio">
+    <img src="https://img.shields.io/badge/Live_Portfolio-sayanighatak.com-amber?style=for-the-badge&logo=vercel&logoColor=white&color=D97706" alt="Live Portfolio">
   </a>
 
   <p align="center">
