@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Sayani Ghatak</h1>
-  <p><strong>Product Engineer at Tata Consultancy Services</strong></p>
+  <p><strong>System Engineer at Tata Consultancy Services</strong></p>
 
   <!-- Live Portfolio Badge -->
   <a href="https://www.sayanighatak.com/" target="_blank">
