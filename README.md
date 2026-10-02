@@ -24,7 +24,7 @@
 
 ## 👩‍💻 About Me
 
-I am a **Product Engineer** currently specializing in frontend architecture and enterprise-grade user interfaces at **Tata Consultancy Services (TCS)**. Alongside my day-to-day frontend engineering, I have a deep pedigree in **Machine Learning research** and a strong, self-driven interest in building **AI-powered applications** on my own time.
+I am a **System Engineer** currently specializing in frontend architecture and enterprise-grade user interfaces at **Tata Consultancy Services (TCS)**. Alongside my day-to-day frontend engineering, I have a deep pedigree in **Machine Learning research** and a strong, self-driven interest in building **AI-powered applications** on my own time.
 
 * 🏆 **Toycathon India National Winner** (Rank 1).
 * 📝 Published researcher with **105+ Google Scholar citations** across international healthcare-ML journals.
